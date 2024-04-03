@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="main.PNG" />
+    <Content Include="waiter.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
